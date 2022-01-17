@@ -11,6 +11,12 @@ function draw()
 
   // write the code to change background color 
   // to red when RIGHT_ARROW is pressed
+  if (keyIsDown(RIGHT_ARROW)) 
+  {
+    background("red");
+    
+  }
+ 
   
   
 
