@@ -16,8 +16,6 @@ function draw()
     background("red");
     
   }
- 
-  
   
 
   if (keyIsDown(LEFT_ARROW)) 
